@@ -2,13 +2,9 @@
 
 [Google Colab](https://colab.research.google.com/drive/11cfakkoDCZsUNT2HKlPn1EmeysxCwvUV?usp=sharing)
 
-grid
-
+sudoku  
 ![](sudoku.gif)
-
-
-solved  
-
+solved   
 ![](sudoku_output.gif)
 
 
