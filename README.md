@@ -4,7 +4,6 @@
 
 sudoku  
 ![](sudoku.gif)
-solved   
-![](sudoku_output.gif)
+
 
 
