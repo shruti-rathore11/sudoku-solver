@@ -4,11 +4,11 @@
 
 grid
 
-
+![](sudoku.jpg)
 ![](print_grid.jpg)
 
 solved  
 
-
+![](sudoku_output.jpg)
 ![](solve_sudoku.jpg)
 
