@@ -1,6 +1,11 @@
 # sudoku-solver
 grid
-![](grid.jpg)
-solved
+
+
+![](print_grid.jpg)
+
+solved  
+
+
 ![](solve_sudoku.jpg)
 
